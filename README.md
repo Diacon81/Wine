@@ -7,6 +7,7 @@ This project involves a comprehensive exploration of a world of wines dataset us
 - Dataset source at https://www.kaggle.com/zynicide/wine-reviews:
  
   winemag-data_first150k.csv
+  
   winemag-data-130k-v2.json
 
 - Requirements:
