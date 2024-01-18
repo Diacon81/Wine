@@ -26,5 +26,7 @@ wines.ipynb: Jupyter Notebook containing the project code.
 
 - Record of Incidents:
 ● Learnings: creating Pandas Dataframes, Filtering Dataframe Values, Managing NaN Values and Bad Data, Statistical Analysis and Data Aggregation, and, Exporting Results into CSV and json Files.
+
 ● Conclusions: proper data handling is fundamental, as when dealing with real-world data, it's common to encounter null values, incorrect, or unusual information. This ensures or approximates an optimal result for analysis and decision-making; the reliability of conclusions relies on the quality and proper handling of the data.
+
 ● Challenges: data quality.
