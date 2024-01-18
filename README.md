@@ -24,7 +24,7 @@ Run each cell in sequential order.
 Ensure the required libraries are installed.
 
 - Project Structure:
-wines.ipynb: Jupyter Notebook containing the project code.
+wines.ipynb. Jupyter Notebook containing the project code.
 
 - Record of Incidents:
 
