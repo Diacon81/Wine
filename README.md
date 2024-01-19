@@ -2,7 +2,7 @@
 WINES DATA. EXPLORATION AND ANALYSIS
 
 - Description:
-This project involves a comprehensive exploration of a world of wines dataset using Python libraries. The dataset includes information about the wine's origin, score, price, tasters' notes, and other general information about each wine.
+This project involves a comprehensive exploration of a worldwide wine dataset using Python libraries. The dataset includes information about the wine's origin, score, price, tasters' notes, and other general information about each wine.
 
 - Dataset source at https://www.kaggle.com/zynicide/wine-reviews:
  
